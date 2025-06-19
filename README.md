@@ -1,7 +1,8 @@
-
 # SnakeGame
 ## About
 Simple implementation of the classic arcade game _Snake_.
+
+https://github.com/user-attachments/assets/fa8794e0-e9b7-4986-82ee-c6013e122762
 
 ## Usage
 Compile:  
