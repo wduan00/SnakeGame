@@ -2,7 +2,7 @@
 ## About
 Simple implementation of the classic arcade game _Snake_.
 
-https://github.com/user-attachments/assets/fa8794e0-e9b7-4986-82ee-c6013e122762
+https://github.com/user-attachments/assets/96af42ff-eb2c-453c-b27e-65425aab808a
 
 ## Usage
 Compile:  
